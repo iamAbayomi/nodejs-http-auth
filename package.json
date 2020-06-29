@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-jwtoken-auth",
+  "version": "1.0.0",
+  "description": "Http Basic Authentication ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Http",
+    "Auth",
+    "Nodejs",
+    "Express",
+    "Morgan"
+  ],
+  "author": "iamAbayomi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
